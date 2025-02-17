@@ -1,6 +1,6 @@
 {
-  "name": "kullai_swamy",
-  "author": "foobar",
+  "name": "fcc-learn-npm-package-json",
+  "author": "kullai",
   "dependencies": {
     "express": "^4.14.0"
   },
